@@ -6,6 +6,7 @@
         alert(
             "PPage pour profil de redacteur,devenir recdacteur,et validation par admin et regarder tailler image like ward menu"
         )
+        alert("marc repo")
     </script>
 
 
